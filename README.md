@@ -24,9 +24,8 @@
 ![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/3.jpg?raw=true)
 ### 有了他🐤我们要做的事情会变成：
 ![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/4.png?raw=true)
-The process of getting used to the MAPBOX JS is not as smooth as Xiangsong 
-#### UI
-The UI and UX flow was simulated in Balsamiq Mock up.
+下面是细节的！！
+#### 硬件和线🧵
 ![alt text](https://raw.githubusercontent.com/xiangsong-yang/Musicity/master/html/balsmic.png)
 #### Map
 Mapbox JS is the seleted web map API.
