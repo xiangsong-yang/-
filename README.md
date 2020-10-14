@@ -9,7 +9,7 @@
 
 ### 之前
 可爱的手机录制
-![alt text](https://raw.githubusercontent.com/xiangsong-yang/musicVideo_how/blob/main/photos/1.png)
+![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/1.png?raw=true)
 
 
 ### Developed process
