@@ -14,7 +14,9 @@
 ### 这么做有什么问题呢？
 #### （1）录音质量
 因为手机麦克风的质量和灵敏度的问题，录出来的声音有蛮大概率会是不清晰的。
-#### （2）
+#### （2）背景噪音
+这是个客观存在的问题，但是在手机上尤为严重，因为使用了外扩的。\
+特别是像我这样的人住的地方，外面经常有警车经过，大概是来抓我的吧。。。
 
 ![alt text](https://raw.githubusercontent.com/xiangsong-yang/Musicity/master/html/mapbox.png)
 The process of getting used to the MAPBOX JS is not as smooth as Xiangsong expect.
