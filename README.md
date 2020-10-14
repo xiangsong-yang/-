@@ -26,7 +26,7 @@
 ![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/4.png?raw=true)
 下面是细节的！！
 #### 硬件和线🧵
-![alt text](https://raw.githubusercontent.com/xiangsong-yang/Musicity/master/html/balsmic.png)
+![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/5.png?raw=true)
 #### Map
 Mapbox JS is the seleted web map API.
 
