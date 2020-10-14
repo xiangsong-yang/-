@@ -25,10 +25,10 @@
 ### 有了他🐤我们要做的事情会变成：
 ![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/4.png?raw=true)
 下面是细节的！！
-#### 硬件和线🧵
+### 硬件和线🧵
 ![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/5.png?raw=true)
-#### Map
-Mapbox JS is the seleted web map API.
+### 在这之后
+![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/6.png?raw=true)
 
 #### Future
 The current state of the project is having a demo on the website. The next step will be merge the UI with the frontend. Unfortunatly, UAL blocked the site for the most of the time. It is quite hard to develop in the bunker where Xiangsong stays. But Xiangsong had made a plan to make further deverlopment with the master student in HCI from Geogia Tech, also, try to bring the website online.
