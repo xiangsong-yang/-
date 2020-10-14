@@ -1,6 +1,6 @@
 # 如何制作简易音乐视频
 ![alt text](https://raw.githubusercontent.com/xiangsong-yang/Musicity/master/musicity.png)
-<a href="http://lovemusicity.com/map.html" target="_blank">Click to see Demo</a>
+<a href="https://www.youtube.com/watch?v=ZV2-uIZoieU" target="_blank">点击查看示例视频</a>
 ##### 杨翔淞
 
 ### Original idea
