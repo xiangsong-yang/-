@@ -8,10 +8,10 @@
 
 ### 之前
 可爱的手机录制
-![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/2.png?raw=true)
+![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/2.png)
 
 
-### 这么做有什么问题呢？
+### 这么做很好！但。。。。
 #### （1）录音质量
 因为手机耳朵（麦克风）的质量和灵敏度的问题，录出来的声音有蛮大概率会是不清晰的。
 #### （2）背景噪音
@@ -21,22 +21,22 @@
 和我们一样，手机听声音只能被动接受所有他听到的东西，而且他选择不了只听什么。。。。\
 所以最后我们想要后期编辑的时候,也没什么好办法。。。。因为如果能分开编辑就会方便很多
 ### 所以，我们现在引入一个宝贝🐤
-![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/3.jpg?raw=true)
+![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/3.jpg)
 ### 有了他🐤我们要做的事情会变成：
-![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/4.png?raw=true)
+![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/4.png)
 下面是细节的！！
 ### 硬件和线🧵
-![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/5.png?raw=true)
+![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/5.png)
 红色的线代表往声卡🐤输出的声音，黄色的声音是从声卡输出的，我们用来听的声音。\
 这样的设置可以让我们能录音的同时也能听见我们声音。
 ### 在这之后
-![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/625.png?raw=true)
-![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/725.png?raw=true)
+![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/625.png)
+![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/725.png)
 
 #### 关于视频对齐
 因为我们在用手机录制的时候，也会录到我们听见的声音。主流的剪辑软件都有依据声音对齐功能，声卡录的声音可以很轻松的直接对齐。所以还是蛮方便的。这个方法也适用多机位的录像也可以。
-![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/8.png?raw=true)
-#### 感谢阅读！请问本文有几只🐤？ 
+![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/8.png)
+#### 感谢阅读！思考题：请问本文有几只🐤？ 
 
 Xiangsong Yang @London 14/10/2020 
 
