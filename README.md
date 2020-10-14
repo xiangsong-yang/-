@@ -1,7 +1,6 @@
 # 制作简易音乐视频
-![alt text](https://raw.githubusercontent.com/xiangsong-yang/Musicity/master/musicity.png)
 <a href="https://www.youtube.com/watch?v=ZV2-uIZoieU" target="_blank">点击查看示例视频</a>
-##### 杨翔淞
+##### By 杨翔淞
 
 ### 本文将包括
 1. 使用音频接口（声卡）制作简易音乐视频的流程
@@ -12,8 +11,10 @@
 ![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/1.png?raw=true)
 
 
-### Developed process
-There are two main parts of the development. Map and UI
+### 这么做有什么问题呢？
+####（1）录音质量
+因为手机麦克风的质量和灵敏度的问题，录出来的声音有蛮大概率会是不清晰的。
+####（2）
 
 ![alt text](https://raw.githubusercontent.com/xiangsong-yang/Musicity/master/html/mapbox.png)
 The process of getting used to the MAPBOX JS is not as smooth as Xiangsong expect.
