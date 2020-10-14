@@ -29,7 +29,8 @@
 ![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/5.png?raw=true)
 ### 在这之后
 ![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/6.png?raw=true)
+![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/7.png?raw=true)
 
-#### Future
-The current state of the project is having a demo on the website. The next step will be merge the UI with the frontend. Unfortunatly, UAL blocked the site for the most of the time. It is quite hard to develop in the bunker where Xiangsong stays. But Xiangsong had made a plan to make further deverlopment with the master student in HCI from Geogia Tech, also, try to bring the website online.
-![alt text](https://raw.githubusercontent.com/xiangsong-yang/Musicity/master/html/musicity.png)
+#### 关于视频对齐
+因为我们在录制的时候，也会录到声音，主流的剪辑软件都有依据声音对齐功能，所以还是蛮方便的。多机位也可以。
+![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/8.png?raw=true)
