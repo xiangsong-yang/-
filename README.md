@@ -8,7 +8,7 @@
 
 ### 之前
 可爱的手机录制
-![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/1.png?raw=true)
+![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/2.png?raw=true)
 
 
 ### 这么做有什么问题呢？
