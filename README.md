@@ -27,10 +27,12 @@
 下面是细节的！！
 ### 硬件和线🧵
 ![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/5.png?raw=true)
+红色的线代表往声卡🐤输出的声音，黄色的声音是从声卡输出的，我们用来听的声音。\
+这样的设置可以让我们能录音的同时也能听见我们声音。
 ### 在这之后
-![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/6.png?raw=true)
-![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/7.png?raw=true)
+![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/625.png?raw=true)
+![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/725.png?raw=true)
 
 #### 关于视频对齐
-因为我们在录制的时候，也会录到声音，主流的剪辑软件都有依据声音对齐功能，所以还是蛮方便的。多机位也可以。
+因为我们在用手机录制的时候，也会录到我们听见的声音。主流的剪辑软件都有依据声音对齐功能，声卡录的声音可以很轻松的直接对齐。所以还是蛮方便的。这个方法也适用多机位的录像也可以。
 ![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/8.png?raw=true)
