@@ -36,3 +36,7 @@
 #### 关于视频对齐
 因为我们在用手机录制的时候，也会录到我们听见的声音。主流的剪辑软件都有依据声音对齐功能，声卡录的声音可以很轻松的直接对齐。所以还是蛮方便的。这个方法也适用多机位的录像也可以。
 ![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/8.png?raw=true)
+#### 感谢阅读！请问本文有几只🐤？ 
+
+Xiangsong Yang @London 14/10/2020 
+
