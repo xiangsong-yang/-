@@ -12,9 +12,9 @@
 
 
 ### 这么做有什么问题呢？
-####（1）录音质量
+#### （1）录音质量
 因为手机麦克风的质量和灵敏度的问题，录出来的声音有蛮大概率会是不清晰的。
-####（2）
+#### （2）
 
 ![alt text](https://raw.githubusercontent.com/xiangsong-yang/Musicity/master/html/mapbox.png)
 The process of getting used to the MAPBOX JS is not as smooth as Xiangsong expect.
