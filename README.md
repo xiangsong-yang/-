@@ -1,6 +1,6 @@
 # 制作简易音乐视频
 <a href="https://www.youtube.com/watch?v=ZV2-uIZoieU" target="_blank">点击查看示例视频</a>
-##### By 杨翔淞
+##### By 洋葱
 
 ### 本文将包括
 1. 使用音频接口（声卡）制作简易音乐视频的流程
