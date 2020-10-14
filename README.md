@@ -20,12 +20,10 @@
 #### （3）后期制作的局限性
 和我们一样，手机听声音只能被动接受所有他听到的东西，而且他选择不了只听什么。。。。\
 所以最后我们想要后期编辑的时候,也没什么好办法。。。。因为如果能分开编辑就会方便很多
-### 现在用手机和声卡
-![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/2.png?raw=true)
-
-The process of getting used to the MAPBOX JS is not as smooth as Xiangsong expect.
-After a long time, Xiangsogn started to feel fammilar with the API.
-
+### 所以，我们现在用手机和声卡
+![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/3.jpg?raw=true)
+### 斯诺
+The process of getting used to the MAPBOX JS is not as smooth as Xiangsong 
 #### UI
 The UI and UX flow was simulated in Balsamiq Mock up.
 ![alt text](https://raw.githubusercontent.com/xiangsong-yang/Musicity/master/html/balsmic.png)
