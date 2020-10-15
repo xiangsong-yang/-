@@ -21,16 +21,16 @@
 和我们一样，手机听声音只能被动接受所有他听到的东西，而且他选择不了只听什么。。。。\
 所以最后我们想要后期编辑的时候,也没什么好办法。。。。因为如果能分开编辑就会方便很多
 ### 所以，我们现在引入一个宝贝🐤
-![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/3.jpg)
+![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/3.jpg)\
+\
+\
 ### 有了他🐤我们要做的事情会变成：
 ![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/4.png)
 下面是细节的！！
 ### 硬件和线🧵
 ![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/5.png)
 红色的线代表往声卡🐤输出的声音，黄色的声音是从声卡输出的，我们用来听的声音。\
-这样的设置可以让我们能录音的同时也能听见我们声音。\
-\
-\
+这样的设置可以让我们能录音的同时也能听见我们声音。
 
 ### 在这之后
 ![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/625.png)
