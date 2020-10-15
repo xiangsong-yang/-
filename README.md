@@ -28,7 +28,10 @@
 ### 硬件和线🧵
 ![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/5.png)
 红色的线代表往声卡🐤输出的声音，黄色的声音是从声卡输出的，我们用来听的声音。\
-这样的设置可以让我们能录音的同时也能听见我们声音。
+这样的设置可以让我们能录音的同时也能听见我们声音。\
+\
+\
+
 ### 在这之后
 ![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/625.png)
 ![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/725.png)
