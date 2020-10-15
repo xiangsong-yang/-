@@ -22,8 +22,6 @@
 所以最后我们想要后期编辑的时候,也没什么好办法。。。。因为如果能分开编辑就会方便很多
 ### 所以，我们现在引入一个宝贝🐤
 ![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/3.jpg)\
-\
-\
 ### 有了他🐤我们要做的事情会变成：
 ![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/4.png)
 下面是细节的！！
