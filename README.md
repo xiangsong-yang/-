@@ -7,7 +7,7 @@
 2. 录音，设备，剪辑相关知识
 
 ### 之前
-可爱的手机录制
+手机录制和可爱的乐队成员们
 ![alt text](https://github.com/xiangsong-yang/musicVideo_how/blob/main/photos/2.png)
 
 
