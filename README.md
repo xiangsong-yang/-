@@ -1,5 +1,4 @@
 # 制作简易音乐视频
-<a href="https://www.youtube.com/watch?v=ZV2-uIZoieU" target="_blank">点击查看示例视频</a>
 ##### By 洋葱
 
 ### 本文将包括
@@ -41,3 +40,4 @@
 #### 思考题：请问本文有几只🐤？ 
 
 Xiangsong Yang @London 14/10/2020 
+<a href="https://www.youtube.com/watch?v=ZV2-uIZoieU" target="_blank">点击查看示例视频</a>
